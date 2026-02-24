@@ -1,0 +1,11 @@
+{
+  "name": "kodnest-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix kodnest-premium-build-system run dev",
+    "build": "npm --prefix kodnest-premium-build-system run build",
+    "preview": "npm --prefix kodnest-premium-build-system run preview",
+    "install-sub": "npm --prefix kodnest-premium-build-system install"
+  }
+}
